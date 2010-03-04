@@ -1,5 +1,5 @@
 === Xhanch - My Quote ===
-Contributors: xhanch
+Contributors: xhanch_studio
 Plugin URI: http://xhanch.com/wp-plugin-my-quote/
 Author URI: http://xhanch.com
 Donate link: http://xhanch.com/wp-plugin-my-quote/
