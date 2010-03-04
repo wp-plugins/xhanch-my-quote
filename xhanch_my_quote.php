@@ -1,6 +1,6 @@
 <?php
 	/*
-		Plugin Name: Xhanch My Quote
+		Plugin Name: Xhanch - My Quote
 		Plugin URI: http://xhanch.com/wp-plugin-my-quote/
 		Description: Random Quote plugin for wordpress
 		Author: Susanto BSc (xhanch)
@@ -32,7 +32,7 @@
 		<div id="xhanch_xhanch_my_quote">			
 			<?php echo $quote; ?>
 			<?php if (get_option("xhanch_my_quote_credit")){ ?>
-				<div style="text-align:right"><a href="http://xhanch.com/wp-plugin-my-quote/" rel="section" title="Xhanch My Quote - A free WordPress plugin to display a random quote" style="text-decoration:none;font-size:10px">My Quote</a>, <a href="http://xhanch.com/" rel="section" title="Developed by Xhanch Studio" style="text-decoration:none;font-size:10px">by Xhanch</a></div>
+				<div style="text-align:right"><a href="http://xhanch.com/wp-plugin-my-quote/" rel="section" title="Xhanch - My Quote - A free WordPress plugin to display a random quote" style="text-decoration:none;font-size:10px">My Quote</a>, <a href="http://xhanch.com/" rel="section" title="Developed by Xhanch Studio" style="text-decoration:none;font-size:10px">by Xhanch</a></div>
 			<?php }?>
 		</div>
 <?php		
@@ -63,8 +63,8 @@
 	}
 
 	function widget_xhanch_my_quote_init(){
-		register_sidebar_widget('Xhanch My Quote', 'widget_xhanch_my_quote');
-		register_widget_control('Xhanch My Quote', 'xhanch_my_quote_control', 300, 200 );     
+		register_sidebar_widget('Xhanch - My Quote', 'widget_xhanch_my_quote');
+		register_widget_control('Xhanch - My Quote', 'xhanch_my_quote_control', 300, 200 );     
 	}
 	add_action("plugins_loaded", "widget_xhanch_my_quote_init");
 ?>
