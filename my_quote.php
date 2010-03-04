@@ -1,6 +1,6 @@
 <?php
 	/*
-		Plugin Name: My Quote
+		Plugin Name: Xhanch My Quote
 		Plugin URI: http://xhanch.com/wp-plugin-my-quote/
 		Description: Random Quote plugin for wordpress
 		Author: Susanto BSc (xhanch)
