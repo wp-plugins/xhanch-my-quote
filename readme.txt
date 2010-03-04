@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Xhanch - My Quote ===
 Contributors: xhanch
 Plugin URI: http://xhanch.com/wp-plugin-my-quote/
 Author URI: http://xhanch.com
@@ -8,10 +8,12 @@ Requires at least: 2.3
 Tested up to: 2.9.2
 Stable tag: 1.1.1
 
-Xhanch My Quote is a WordPress plugin made by Xhanch Studio to show a random quote with provided predefined quotes or your own collections.
+Xhanch My Quote shows a random quote with provided predefined quotes or your own collections.
 
 
 == Description ==
+
+= Info: This is a continuation on My Quote 1.1.1 plugin which was removed. If you wish to get automatic updates for later versions, you should remove the currently installed My Quote plugin from your WordPress website and use/download this new one=
 
 Xhanch My Quote is a WordPress plugin made by Xhanch Studio to show a random quote with provided predefined quotes or your own collections. The collections of quotes are expandable for sure. We will keep adding more collections to the database.
 
