@@ -63,8 +63,8 @@
 	}
 
 	function widget_xhanch_my_quote_init(){
-		register_sidebar_widget('My Quote', 'widget_xhanch_my_quote');
-		register_widget_control('My Quote', 'xhanch_my_quote_control', 300, 200 );     
+		register_sidebar_widget('Xhanch My Quote', 'widget_xhanch_my_quote');
+		register_widget_control('Xhanch My Quote', 'xhanch_my_quote_control', 300, 200 );     
 	}
 	add_action("plugins_loaded", "widget_xhanch_my_quote_init");
 ?>
