@@ -1,5 +1,5 @@
 <?php
-	function my_quote_get_dir($type) {
+	function xhanch_my_quote_get_dir($type) {
 		if ( !defined('WP_CONTENT_URL') )
 			define( 'WP_CONTENT_URL', get_option('siteurl') . '/wp-content');
 		if ( !defined('WP_CONTENT_DIR') )
@@ -8,7 +8,7 @@
 		else { return WP_CONTENT_URL.'/plugins/'.plugin_basename(dirname(__FILE__)); }
 	}
 
-	function my_quote_get_quote(){
+	function xhanch_my_quote_get_quote(){
 		$sel_quote = '';
 		$dir = dir(dirname(__FILE__).'/db/');
 		$list_dir = array();
