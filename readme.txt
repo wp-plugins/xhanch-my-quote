@@ -13,8 +13,6 @@ Xhanch - My Quote shows a random quote with provided predefined quotes or your o
 
 == Description ==
 
-Info: This is a continuation on My Quote 1.1.0 plugin which was removed. If you wish to get automatic updates for later versions, you should remove the currently installed My Quote plugin from your WordPress website and use/download this new one
-
 Xhanch - My Quote is a WordPress plugin made by Xhanch Studio to show a random quote with provided predefined quotes or your own collections. The collections of quotes are expandable for sure. We will keep adding more collections to the database.
 
 With this plugin, you can provide useful and worthy knowledge, words and information to your visitor. Else, your website will be more dynamic and more keywords-rich since the content of every pages of your WordPress website will keep changing due to this plugin.
