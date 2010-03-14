@@ -15,5 +15,5 @@
 		'It is open to a war resister to judge between the combatants and wish success to the one who has justice on his side. By so judging he is more likely to bring peace between the two than by remaining a mere spectator. <br/><i>- Mahatma Gandhi -</i>',
 		'What is a man if he is not a thief who openly charges as much as he can for the goods he sells? <br/><i>- Mahatma Gandhi -</i>',
 		'Consciously or unconsciously, every one of us does render some service or other. If we cultivate the habit of doing this service deliberately, our desire for service will steadily grow stronger, and will make, not only our own happiness, but that of the world at large. <br/><i>- Mahatma Gandhi -</i>',
-	)
+	);
 ?>

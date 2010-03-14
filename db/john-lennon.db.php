@@ -15,5 +15,5 @@
 		'All you need is love. <br/><i>- John Lennon -</i>',
 		'And so this is Xmas for black and for white, for yellow and red, let\'s stop all the fight. <br/><i>- John Lennon -</i>',
 		'The pressures of being a parent are equal to any pressure on earth. To be a conscious parent, and really look to that little being\'s mental and physical health, is a responsibility which most of us, including me, avoid most of the time because it\'s too hard. <br/><i>- John Lennon -</i>',
-	)
+	);
 ?>

@@ -15,5 +15,5 @@
 		'I\'m for the individual as opposed to the corporation. The way it is the individual is the underdog, and with all the things a corporation has going for them the individual comes out banged on her head. The artist is nothing. It\'s really tragic. <br/><i>- Marilyn Monroe -</i>',
 		'Hollywood\'s a place where they\'ll pay you a thousand dollars for a kiss, and fifty cents for your soul. I know, because I turned down the first offer often enough and held out for the fifty cents. <br/><i>- Marilyn Monroe -</i>',
 		'What good is it being Marilyn Monroe? Why can\'t I just be an ordinary woman? A woman who can have a family ... I\'d settle for just one baby. My own baby. <br/><i>- Marilyn Monroe -</i>',
-	)
+	);
 ?>

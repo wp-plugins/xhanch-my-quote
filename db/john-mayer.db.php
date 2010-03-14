@@ -15,5 +15,5 @@
 		'I\'m singing what I want to sing based on the emotion of what that day feels like. That\'s what comes out of my mouth and guitar. That impacts people. They know anything can happen. <br/><i>- John Mayer -</i>',
 		'It is too easy to watch music coming out of people\'s mouths lately and you\'re not quite sure if it was written with the best of intentions. <br/><i>- John Mayer -</i>',
 		'Hopefully people can see my music is tethered to my brain. <br/><i>- John Mayer -</i>',
-	)
+	);
 ?>

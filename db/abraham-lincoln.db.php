@@ -12,5 +12,5 @@
 		'Better to remain silent and be thought a fool than to speak out and remove all doubt. <br/><i>- Abraham Lincoln -</i>',
 		'Books serve to show a man that those original thoughts of his aren\'t very new at all. <br/><i>- Abraham Lincoln -</i>',
 		'Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing. <br/><i>- Abraham Lincoln -</i>',
-	)
+	);
 ?>

@@ -14,5 +14,5 @@
 		'Cocaine is God\'s way of saying you\'re making too much money. <br/><i>- Robin Williams -</i>',
 		'If it\'s the Psychic Network why do they need a phone number? <br/><i>- Robin Williams -</i>',
 		'I\'m sorry, if you were right, I\'d agree with you. <br/><i>- Robin Williams -</i>',
-	)
+	);
 ?>

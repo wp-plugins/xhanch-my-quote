@@ -15,5 +15,5 @@
 		'Equality consists in the same treatment of similar persons. <br/><i>- Aristotle -</i>',
 		'It is the mark of an instructed mind to rest satisfied with the degree of precision which the nature of the subject admits and not to seek exactness when only an approximation of the truth is possible. <br/><i>- Aristotle -</i>',
 		'Fear is pain arising from the anticipation of evil. <br/><i>- Aristotle -</i>',
-	)
+	);
 ?>

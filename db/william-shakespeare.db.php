@@ -17,5 +17,5 @@
 		'Send danger from the east unto the west, so honor cross it from the north to south. <br/><i>- William Shakespeare -</i>',
 		'The teeming Autumn big with rich increase, bearing the wanton burden of the prime like widowed wombs after their lords decease. <br/><i>- William Shakespeare -</i>',
 		'This is the excellent foppery of the world: that when we are sick in fortune -- often the surfeits of our own behavior -- we make guilty of our disasters the sun, the moon, and stars, as if we were villains on necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence. An admirable evasion of whoremaster man, to lay his goatish disposition on the charge of a star! <br/><i>- William Shakespeare -</i>',
-	)
+	);
 ?>

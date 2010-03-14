@@ -12,5 +12,5 @@
 		'It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come. <br/><i>- Dalai Lama -</i>',
 		'Love and compassion are necessities, not luxuries. Without them humanity cannot survive. <br/><i>- Dalai Lama -</i>',
 		'My religion is very simple. My religion is kindness. <br/><i>- Dalai Lama -</i>',
-	)
+	);
 ?>

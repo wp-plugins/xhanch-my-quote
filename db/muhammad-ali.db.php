@@ -14,5 +14,5 @@
 		'Frazier is so ugly that he should donate his face to the US Bureau of Wild Life. <br/><i>- Muhammad Ali -</i>',
 		'A rooster crows only when it sees the light. Put him in the dark and he\'ll never crow. I have seen the light and I\'m crowing. <br/><i>- Muhammad Ali -</i>',
 		'Age is whatever you think it is. You are as old as you think you are. <br/><i>- Muhammad Ali -</i>',
-	)
+	);
 ?>

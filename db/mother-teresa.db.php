@@ -21,5 +21,5 @@
 		'If you can\'t feed a hundred people, then feed just one. <br/><i>- Mother Teresa -</i>',
 		'If you judge people, you have no time to love them. <br/><i>- Mother Teresa -</i>',
 		'If you want a love message to be heard, it has got to be sent out. To keep a lamp burning, we have to keep putting oil in it. <br/><i>- Mother Teresa -</i>',
-	)
+	);
 ?>

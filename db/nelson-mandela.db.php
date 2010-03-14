@@ -15,5 +15,5 @@
 		'There can be no keener revelation of a society\'s soul than the way in which it treats its children. <br/><i>- Nelson Mandela -</i>',
 		'When the water starts boiling it is foolish to turn off the heat. <br/><i>- Nelson Mandela -</i>',
 		'I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. <br/><i>- Nelson Mandela -</i>',
-	)
+	);
 ?>

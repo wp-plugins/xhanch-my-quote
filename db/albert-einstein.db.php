@@ -22,5 +22,5 @@
 		'Before God we are all equally wise - and equally foolish. <br/><i>- Albert Einstein -</i>',
 		'Common sense is the collection of prejudices acquired by age eighteen. <br/><i>- Albert Einstein -</i>',
 		'Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations. <br/><i>- Albert Einstein -</i>',
-	)
+	);
 ?>

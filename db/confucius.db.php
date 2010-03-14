@@ -16,5 +16,5 @@
 		'Our greatest glory is not in never falling, but in rising every time we fall. <br/><i>- Confucius -</i>',
 		'We take greater pains to persuade others we are happy than in trying to think so ourselves. <br/><i>- Confucius -</i>',
 		'By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest. <br/><i>- Confucius -</i>',
-	)
+	);
 ?>

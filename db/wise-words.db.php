@@ -37,5 +37,5 @@
 		'He dares to be a fool, and that is the first step in the direction of wisdom. <br/><i>- James Huneker -</i>',
 		'He who devotes sixteen hours a day to hard study may become at sixty as wise as he thought himself at twenty. <br/><i>- Mary Wilson Little -</i>',
 		'Honesty is the first chapter in the book of wisdom. <br/><i>- Thomas Jefferson -</i>'
-	)
+	);
 ?>

@@ -15,5 +15,5 @@
 		'Courage is rightly considered the foremost of the virtues, for upon it, all others depend. <br/><i>- Winston Churchill -</i>',
 		'They are decided only to be undecided, resolved to be irresolute, adamant for drift, solid for fluidity, all-powerful to be impotent. <br/><i>- Winston Churchill -</i>',
 		'I have never accepted what many people have kindly said-namely that I inspired the nation. Their will was resolute and remorseless, and as it proved, unconquerable. It fell to me to express it. <br/><i>- Winston Churchill -</i>',
-	)
+	);
 ?>

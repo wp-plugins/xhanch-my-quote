@@ -15,5 +15,5 @@
 		'The best is the cheapest. <br/><i>- Benjamin Franklin -</i>',
 		'It is foolish to lay out money for the purchase of repentance. <br/><i>- Benjamin Franklin -</i>',
 		'Some punishment seems preparing for a people who are ungratefully abusing the best constitution and the best King any nation was ever blessed with, intent on nothing but luxury, licentiousness, power, places, pensions, and plunder; while the ministry, divided in their counsels, with little regard for each other, worried by perpetual oppositions, in continual apprehension of changes, intent on securing popularity in case they should lose favor, have for some years past had little time or inclination to attend to our small affairs, whose remoteness makes them appear even smaller. <br/><i>- Benjamin Franklin -</i>',
-	)
+	);
 ?>
