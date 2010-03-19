@@ -10,19 +10,31 @@
 
 	function xhanch_my_quote_get_quote(){
 		$sel_quote = '';
-		$dir = dir(dirname(__FILE__).'/db/');
+		
+		$path = dirname(__FILE__).'/db/';
+		$dir = dir($path);
 		$list_dir = array();
 		while($db_file = $dir->read()){
 			if(substr($db_file, -6) == 'db.php')
-				$list_dir[] = $db_file;	
+				$list_dir[] = $path.$db_file;	
 		}
 		$dir->close();
+
+		$path = WP_CONTENT_DIR.'/quote/';
+		if(is_dir($path)){
+			$dir = dir($path);
+			while($db_file = $dir->read()){
+				if(substr($db_file, -6) == 'db.php')
+					$list_dir[] = $path.$db_file;	
+			}
+			$dir->close();
+		}
 
 		$sel_col_id = array_rand($list_dir);
 		$sel_col = $list_dir[$sel_col_id];
 		
 		$db = array();
-		@include(dirname(__FILE__).'/db/'.$sel_col);
+		@include($sel_col);
 		
 		if(count($db)){
 			$sel_quote_id = array_rand($db);
