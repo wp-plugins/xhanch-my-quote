@@ -10,7 +10,7 @@
 
 	function xhanch_my_quote_get_quote(){
 		$sel_quote = '';
-		
+		/*
 		$path = dirname(__FILE__).'/db/';
 		$dir = dir($path);
 		$list_dir = array();
@@ -18,7 +18,7 @@
 			if(substr($db_file, -6) == 'db.php')
 				$list_dir[] = $path.$db_file;	
 		}
-		$dir->close();
+		$dir->close();*/
 
 		$path = WP_CONTENT_DIR.'/quote/';
 		if(is_dir($path)){
@@ -38,7 +38,7 @@
 		
 		if(count($db)){
 			$sel_quote_id = array_rand($db);
-			$sel_quote = utf8_encode($db[$sel_quote_id]);		
+			$sel_quote = $db[$sel_quote_id];		
 		}
 		return $sel_quote;
 	}
