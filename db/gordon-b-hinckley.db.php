@@ -1,0 +1,19 @@
+<?php
+	$db = array(
+		'Without hard work, nothing grows but weeds. <br/><i>- Gordon B. Hinckley -</i>',
+		'Give expression to the noble desires that lie in your heart. <br/><i>- Gordon B. Hinckley -</i>',
+		'I am totally in the hands of the Lord. <br/><i>- Gordon B. Hinckley -</i>',
+		'Of course we\'re Christian. The very name of the church declares that. The more people see us and come to know us, the more I believe they will come to realize that we are trying to exemplify in our lives and in our living the great ideals which (Jesus Christ) taught. <br/><i>- Gordon B. Hinckley -</i>',
+		'Our kindness may be the most persuasive argument for that which we believe. <br/><i>- Gordon B. Hinckley -</i>',
+		'A prominent judge was asked what we, as citizens of the countries of the world, could do to reduce crime and disobedience to law and to bring peace and contentment into our lives and into our nations. He thoughtfully replied, \'I would suggest a return to the old-fashioned practice of family prayer\'. <br/><i>- Gordon B. Hinckley -</i>',
+		'Believe in Jesus Christ, our Savior and our Redeemer, the Son of God, who came to earth and walked the dusty roads of Palestine-the Son of God-to teach us the way of truth and light and salvation, and who, in one great and glorious act offered an atonement for each of us. He opened the way of salvation and exaltation for each of us, under which we may go forward in the Church and kingdom of God. Be not faithless, but believe in the great and wonderful and marvelous blessings of the Atonement. <br/><i>- Gordon B. Hinckley -</i>',
+		'Our kindness may be the most persuasive argument for that which we believe. <br/><i>- Gordon B. Hinckley -</i>',
+		'One of the bellwether marks of the growth and vitality of the Church is the construction of temples. . . . We will keep on working to bring the temples to the people, making it more convenient for Latter day Saints everywhere to receive the blessings which can only be had in these holy houses. <br/><i>- Gordon B. Hinckley -</i>',
+		'The time has come for us to stand a little taller, to lift our eyes and stretch our minds to a greater comprehension and understanding of the grand millennial mission of this, The Church of Jesus Christ of Latter-day Saints. <br/><i>- Gordon B. Hinckley -</i>',
+		'Truly, my dear young friends, you are a chosen generation. I hope you will never forget it. I hope you will never take it for granted. I hope there will grow in your hearts an overpowering sense of gratitude to God, who has made it possible for you to come upon the earth in this marvelous season of the world\'s history. <br/><i>- Gordon B. Hinckley -</i>',
+		'Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith. <br/><i>- Gordon B. Hinckley -</i>',
+		'This cause will roll on in majesty and power to fill the earth. Doors now closed to the preaching of the gospel will be opened. The Almighty, if necessary, may have to shake the nations to humble them and cause them to listen to the servants of the living God. Whatever is needed will come to pass. <br/><i>- Gordon B. Hinckley -</i>',
+		'Respect for self is the beginning of cultivating virtue in men and women. <br/><i>- Gordon B. Hinckley -</i>',
+		'Those who grieve frequently find themselves alone. Missed is the laughter of children, the commotion of teenagers, and the tender, loving concern of a departed companion. The clock ticks more loudly, time passes more slowly, and four walls can indeed a prison make. I extol those who, with loving care and compassionate concern, feed the hungry, clothe the naked, and house the homeless. He who notes the sparrow\'s fall will not be unmindful of such service. <br/><i>- Gordon B. Hinckley -</i>',
+	);
+?>
