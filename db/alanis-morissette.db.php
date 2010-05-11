@@ -12,7 +12,7 @@
 		'I try to keep a low profile in general. Not with my art, but just as a person. <br/><i>- Alanis Morissette -</i>',
 		'At one point, I was just perceived as only being angry, but now I\'m being perceived as angry, peaceful, and spiritual. <br/><i>- Alanis Morissette -</i>',
 		'And if I had a preference, it would be to be able to not be in the studio until 4 in the morning. <br/><i>- Alanis Morissette -</i>',
-		'Anything I do has to be directly related to my music. If it isn't, I don't really see a point to it. <br/><i>- Alanis Morissette -</i>',
+		'Anything I do has to be directly related to my music. If it isn\'t, I don\'t really see a point to it. <br/><i>- Alanis Morissette -</i>',
 		'Down the road, I\'ll probably have a kid or two or three. And there will probably be political events or spiritual things to comment on, and humor. <br/><i>- Alanis Morissette -</i>',
 		'I felt like I was making a record under the radar, and that is my favorite way to do anything. <br/><i>- Alanis Morissette -</i>',
 	);

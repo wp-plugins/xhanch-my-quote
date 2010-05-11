@@ -14,6 +14,6 @@
 		'Out of damp and gloomy days, out of solitude, out of loveless words directed at us, conclusions grow up in us like fungus: one morning they are there, we know not how, and they gaze upon us, morose and gray. Woe to the thinker who is not the gardener but only the soil of the plants that grow in him. <br/><i>- Friedrich Nietzsche -</i>',
 		'We are franker towards others than towards ourselves. <br/><i>- Friedrich Nietzsche -</i>',
 		'He who cannot obey himself will be commanded. That is the nature of living creatures. <br/><i>- Friedrich Nietzsche -</i>',
-		'Reckoned physiologically, everything ugly weakens and afflicts man. It recalls decay, danger, impotence; he actually suffers a loss of energy in its presence. The effect of the ugly can be measured with a dynamometer. Whenever man feels in any way depressed, he senses the proximity of something ''ugly.'' His feeling of power, his will to power, his courage, his pride -- they decline with the ugly, they increase with the beautiful. <br/><i>- Friedrich Nietzsche -</i>',
+		'Reckoned physiologically, everything ugly weakens and afflicts man. It recalls decay, danger, impotence; he actually suffers a loss of energy in its presence. The effect of the ugly can be measured with a dynamometer. Whenever man feels in any way depressed, he senses the proximity of something &quot;ugly.&quot; His feeling of power, his will to power, his courage, his pride -- they decline with the ugly, they increase with the beautiful. <br/><i>- Friedrich Nietzsche -</i>',
 	);
 ?>
