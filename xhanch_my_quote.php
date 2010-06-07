@@ -5,7 +5,7 @@
 		Description: Random Quote plugin for wordpress
 		Author: Susanto BSc (Xhanch Studio)
 		Author URI: http://xhanch.com
-		Version: 1.3.8
+		Version: 1.3.9
 	*/
 
 	function xhanch_my_quote_install () {
