@@ -3,7 +3,7 @@ Contributors: xhanch_studio
 Plugin URI: http://xhanch.com/wp-plugin-my-quote/
 Author URI: http://xhanch.com
 Donate link: http://xhanch.com/wp-plugin-my-quote/
-Tags: sidebar, xhanch, widget, plugin, code, content, list, social, plugins, simple, custom, wordpress, text, post, page, quote, dynamic, automated, database, random, update, scrolling, word
+Tags: sidebar, xhanch, widget, plugin, code, content, list, social, plugins, simple, custom, wordpress, text, post, page, quote, dynamic, automated, database, random, admin, update, scrolling, word, famous, people, saying, wisdom
 Requires at least: 2.3
 Tested up to: 3.0.1
 Stable tag: 1.4.5
