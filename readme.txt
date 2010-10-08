@@ -19,6 +19,8 @@ With this plugin, you can provide useful and worthy knowledge, words and informa
 
 [Click here for more detailed information about Xhanch - My Quote and If you're having a problem with the plugin](http://xhanch.com/wp-plugin-my-quote/ "Xhanch - Xhanch - My Quote")
 
+[Click here to see All free plugins from Xhanch Studio](http://wordpress.org/extend/plugins/profile/xhanch_studio "Click here to see All free plugins from Xhanch Studio")
+
 == Installation ==
 
 [Click here for more detailed information about Xhanch - My Quote and If you're having a problem with the plugin](http://xhanch.com/wp-plugin-my-quote/ "Xhanch - Xhanch - My Quote")
