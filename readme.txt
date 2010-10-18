@@ -6,7 +6,7 @@ Donate link: http://xhanch.com/wp-plugin-my-quote/
 Tags: sidebar, xhanch, widget, plugin, code, content, list, social, plugins, simple, custom, wordpress, text, post, page, quote, dynamic, automated, database, random, admin, update, scrolling, word, famous, people, saying, wisdom
 Requires at least: 2.3
 Tested up to: 3.0.1
-Stable tag: 1.4.5
+Stable tag: 1.4.6
 
 Xhanch - My Quote shows a random quote with provided predefined quotes or your own collections.
 
