@@ -5,7 +5,7 @@
 		Description: Random Quote plugin for wordpress
 		Author: Susanto BSc (Xhanch Studio)
 		Author URI: http://xhanch.com
-		Version: 1.4.6
+		Version: 1.4.7
 	*/
 
 	function xhanch_my_quote_install () {
@@ -52,20 +52,28 @@ for($i=0;$i<10;$i++)
 		<table>
 			<tr>
 				<td width="150"><label for="xhanch_my_quote_title">Title</label></td>
-				<td><input type="text" id="xhanch_my_quote_title" name="xhanch_my_quote_title" value="<?php echo $title; ?>" /></td>
+				<td><input type="text" id="xhanch_my_quote_title" name="xhanch_my_quote_title" value="<?php echo $title; ?>" style="width:200px"/></td>
 			</tr>
 			<tr>
 				<td><label for="xhanch_my_quote_credit">Display Credit</label></td>
 				<td><input type="checkbox" id="xhanch_my_quote_credit" name="xhanch_my_quote_credit" value="1" <?php echo ($credit?'checked="checked"':''); ?>/></td>
 			</tr>
 		</table>
+        <div style="float:right;line-height:21px">
+            <b><?php echo __('Do you like this plugin?', 'xmt'); ?></b> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fxhanch.com%2Fwp-plugin-my-quote%2F&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:1px solid #999; overflow:hidden; width:100px; height:21px; margin:0 0 0 10px; float:right" allowTransparency="true"></iframe>           
+        </div>
+        <div class="clear"></div>	
+        <div style="float:right;line-height:21px">
+            <b><?php echo __('Do you like our service and support?', 'xmt'); ?></b> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FXhanch-Studio%2F146245898739871&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:1px solid #999; overflow:hidden; width:100px; height:21px; margin:0 0 0 10px; float:right" allowTransparency="true"></iframe>           
+        </div>
+        <div style="clear:both"></div>
 		<input type="hidden" id="xhanch_my_quote_submit" name="xhanch_my_quote_submit" value="1" />
 <?php
 	}
 
 	function widget_xhanch_my_quote_init(){
 		register_sidebar_widget('Xhanch - My Quote', 'widget_xhanch_my_quote');
-		register_widget_control('Xhanch - My Quote', 'xhanch_my_quote_control', 300, 200 );     
+		register_widget_control('Xhanch - My Quote', 'xhanch_my_quote_control', 400, 200 );     
 	}
 	add_action("plugins_loaded", "widget_xhanch_my_quote_init");
 ?>
