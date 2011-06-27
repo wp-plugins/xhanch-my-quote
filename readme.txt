@@ -18,6 +18,7 @@ Xhanch - My Quote (developed by [Xhanch Studio](http://xhanch.com/ "Xhanch Studi
 With this plugin, you can provide useful and worthy knowledge, words and information to your visitor. Else, your website will be more dynamic and more keywords-rich since the content of every pages of your WordPress website will keep changing due to this plugin.
 
 For complete features list, installation and setup, screen shots, FAQs, update logs/changelog, and support:
+
 * [Plugin details](http://xhanch.com/wp-plugin-my-quote/ "Xhanch - My Quote")
 * [Forum/community center](http://forum.xhanch.com/index.php/board,5.0.html "Forum/community center")
 * [Change/update logs](http://forum.xhanch.com/index.php/board,21.0.html "Change/update logs")
