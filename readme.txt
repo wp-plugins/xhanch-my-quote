@@ -23,3 +23,30 @@ For complete features list, installation and setup, screen shots, FAQs, update l
 * [Change/update logs](http://forum.xhanch.com/index.php/board,21.0.html "Change/update logs")
 
 [Click here to see All free plugins from Xhanch Studio](http://wordpress.org/extend/plugins/profile/xhanch_studio "Click here to see All free plugins from Xhanch Studio")
+
+
+== Installation ==
+
+[Click here for more detailed information about Xhanch - My Quote and If you're having a problem with the plugin](http://xhanch.com/wp-plugin-my-quote/ "Xhanch - My Quote")
+
+== Screenshots ==
+
+[Click here for more detailed information about Xhanch - My Quote and If you're having a problem with the plugin](http://xhanch.com/wp-plugin-my-quote/ "Xhanch - My Quote")
+
+== Frequently Asked Questions ==
+
+= What is Xhanch - My Quote? =
+
+[Click here for more detailed information about Xhanch - My Quote and If you're having a problem with the plugin](http://xhanch.com/wp-plugin-my-quote/ "Xhanch - My Quote")
+
+== Upgrade Notice ==
+
+[Click here for complete change/update log the plugin](http://forum.xhanch.com/index.php/board,21.0.html "Xhanch - My Quote")
+
+== Support ==
+
+[Click here to visit the forum for this plugin](http://forum.xhanch.com/index.php/board,5.0.html "Xhanch - My Quote")
+
+== Changelog ==
+
+[Click here for complete change/update log the plugin](http://forum.xhanch.com/index.php/board,21.0.html "Xhanch - My Quote")
