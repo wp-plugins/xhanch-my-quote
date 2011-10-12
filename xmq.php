@@ -5,7 +5,7 @@
 		Description: Random Quote plugin for wordpress
 		Author: Susanto BSc (Xhanch Studio)
 		Author URI: http://xhanch.com
-		Version: 1.4.8
+		Version: 1.4.9
 	*/
 	
 	define('xmq', true);
@@ -43,7 +43,7 @@
 					'Xhanch', 
 					'Xhanch', 
 					8, 
-					'xhanch-my-quote/admin/xhc.php', 
+					'xhanch-my-quote/adm/xhc.php', 
 					'',
 					xmq_get_dir('url').'/img/ico.jpg'
 				);
