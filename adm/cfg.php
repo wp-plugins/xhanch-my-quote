@@ -107,14 +107,11 @@
 					<tr>
 						<td colspan="5"><textarea id="txa_xmq_qte_ext" name="txa_xmq_qte_ext" style="width:100%;height:100px"><?php echo htmlspecialchars(implode("\n", get_option('xmq_qte_ext', array()))); ?></textarea></td>
 					</tr>
-				</table><br/>
-                
-                <table cellpadding="0" cellspacing="0">                
-                    <tr>
-                        <td width="22px"><input type="checkbox" id="chk_xmq_shw_crd" name="chk_xmq_shw_crd" value="1" <?php echo (get_option('xmq_shw_crd')?'checked="checked"':''); ?>/></td>
-                        <td width="775px"><?php echo __('Show Credit?', 'xmq'); ?></td>
-                    </tr>
-                </table>
+				</table><br/><br/>
+
+				<input type="checkbox" id="chk_xmq_shw_crd" name="chk_xmq_shw_crd" value="1" <?php echo (get_option('xmq_shw_crd')?'checked="checked"':''); ?>/>
+				<b><?php echo __('Show credit link ("Powered by"), I will <a href="http://xhanch.com/xhanch-donate" target="_blank">donate</a> later.', 'xmt'); ?></b>
+				<br/>
                 
                 <p class="submit">
                     <input type="submit" name="cmd_xmq_cfg_upd" value="<?php echo __('Update Configuration', 'xmq'); ?>"/>

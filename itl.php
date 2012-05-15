@@ -8,7 +8,7 @@
 
 	$ver = get_option("xmq_vsn");
 	if($ver == ''){
-		add_option("xmq_shw_crd", 1);
+		add_option("xmq_shw_crd", 0);
 		add_option("xmq_qte_ext", array());		
 		add_option("xmq_qte_atv", xmq_qte_col_lst());
 
@@ -18,8 +18,8 @@
 		update_option('xmq_vsn', $ver);
 	}
 
-	if($upd)
-		update_option("xmq_shw_crd", 1);	
+	//if($upd)
+	//	update_option("xmq_shw_crd", 1);	
 
 	$upd_res = true;
 ?>
