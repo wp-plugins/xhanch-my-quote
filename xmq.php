@@ -42,7 +42,7 @@
 				add_menu_page(
 					'Xhanch', 
 					'Xhanch', 
-					8, 
+					'activate_plugins', 
 					'xhanch-my-quote/adm/xhc.php', 
 					'',
 					xmq_get_dir('url').'/img/ico.jpg'
@@ -53,7 +53,7 @@
 				xhanch_root, 
 				__('My Quote', 'xmq'), 
 				__('My Quote', 'xmq'), 
-				8, 
+				'activate_plugins', 
 				'xhanch-my-quote/adm/cfg.php', 
 				''
 			);
