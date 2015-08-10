@@ -4,10 +4,10 @@
 
 	class xmq_wgt_qte extends WP_Widget{
 
-		function xmq_wgt_qte(){
+		function __construct(){
 			$wgt_opt = array('classname' => 'xmq_wgt mng_sch', 'description' => 'Show a quote');
 			$ctr_opt = array('width' => 300, 'height' => 200);
-			$this->WP_Widget(false, 'XMQ: Quote', $wgt_opt, $ctr_opt);
+			parent::__construct(false, 'XMQ: Quote', $wgt_opt, $ctr_opt);
 		}
 
 		function widget($arg, $cfg){
@@ -17,7 +17,7 @@
 				return;		
 
 			echo $before_widget;
-			if($cfg['ttl'] != '')
+			if(isset($cfg['ttl']) && $cfg['ttl'] != '')
 				echo $before_title.$cfg['ttl'].$after_title;				
 ?>
 			<div id="xmq_wgt_qte_<?php echo $this->number; ?>">			
@@ -37,6 +37,8 @@
 		}
 
 		function form($cfg){
+			if(!isset($cfg['ttl']))
+				$cfg['ttl'] = 'Quote Of The Day';
 ?>
 			<table style="width:350px">
 				<tr>

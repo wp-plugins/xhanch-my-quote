@@ -7,7 +7,11 @@
 		global $xmq_conf;
 		global $xmq_default;
 				
-		if($_POST['cmd_xmq_cfg_upd']){
+		if(isset($_POST['cmd_xmq_cfg_upd'])){
+			$shw_crd = 0;
+			if(isset($_POST['chk_xmq_shw_crd']))
+				$shw_crd = intval($_POST['chk_xmq_shw_crd']);
+
 			if(isset($_POST['chk_xmq_qte_atv']))
 				update_option('xmq_qte_atv', $_POST['chk_xmq_qte_atv']);
 			else
@@ -17,7 +21,7 @@
 			else
 				update_option('xmq_qte_ext', array());
 
-			update_option('xmq_shw_crd', intval($_POST['chk_xmq_shw_crd']));
+			update_option('xmq_shw_crd', $shw_crd);
 
 			echo '<div id="message" class="updated fade"><p>'.__('Configuration Updated', 'xmq').'</p></div>';
 		}	
